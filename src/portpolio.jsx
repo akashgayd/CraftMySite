@@ -409,8 +409,8 @@ const CraftMySitePortfolio = () => {
                     </div>
                     <div>
                       <h4 className="font-semibold text-gray-900">Phone</h4>
-                      <a href="tel:+919876543210" className="text-blue-600 hover:text-blue-800 transition-colors">
-                        +91 98765 43210
+                      <a href="tel:+919022652375" className="text-blue-600 hover:text-blue-800 transition-colors">
+                        +91 9022652375
                       </a>
                     </div>
                   </div>
@@ -422,7 +422,7 @@ const CraftMySitePortfolio = () => {
                     <div>
                       <h4 className="font-semibold text-gray-900">WhatsApp</h4>
                       <a
-                        href="https://wa.me/919876543210?text=Hi, I want to discuss a project with CraftMySite"
+                        href="https://wa.me/919022652375?text=Hi, I want to discuss a project with CraftMySite"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-green-600 hover:text-green-800 transition-colors"
@@ -439,7 +439,7 @@ const CraftMySitePortfolio = () => {
                     <div>
                       <h4 className="font-semibold text-gray-900">Email</h4>
                       <a href="mailto:web.freelancer1234@gmail.com" className="text-purple-600 hover:text-purple-800 transition-colors">
-                        hello@craftmysite.com
+                       web.freelancer1234@gmail.com
                       </a>
                     </div>
                   </div>
@@ -463,7 +463,7 @@ const CraftMySitePortfolio = () => {
             <p className="text-gray-400 mb-6">We Craft Digital Experiences That Grow Businesses</p>
             <div className="flex justify-center space-x-6 mb-8">
               <a
-                href="tel:+919876543210"
+                href="tel:+919022652375"
                 className="text-gray-400 hover:text-white transition-colors duration-300"
               >
                 <Phone className="w-6 h-6" />
